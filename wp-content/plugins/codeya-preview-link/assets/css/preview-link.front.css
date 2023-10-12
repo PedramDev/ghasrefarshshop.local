@@ -1,0 +1,14 @@
+@media only screen and (max-width: 600px) {
+    .decor-preview {
+        position: fixed;
+        left: 10px;
+        height: 140px;
+        line-height: 0px;
+        text-align: center;
+        z-index: 2;
+        display: block;
+        bottom: 69px;
+        writing-mode: tb-rl;
+        opacity: 0.8;
+    }
+  }

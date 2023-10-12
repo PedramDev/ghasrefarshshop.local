@@ -54,3 +54,6 @@ wp-content/plugins/index.php
 /wp-content/plugins/air*
 .idea
 /wp-content/plugins/^decor
+/wp-content/plugins/search*
+/wp-content/plugins/*.zip
+/wp-content/plugins/*.rar
